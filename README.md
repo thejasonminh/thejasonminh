@@ -1,4 +1,14 @@
-### Hi there 👋
+### Heya 👋👋
+
+I'm Jason, a Calgarian residing in Toronto.
+
+- 🔭 I’m currently working on my Bachelor of Information at the University of Toronto
+- 🌱 I’m currently learning R
+- 🤔 I’m looking for help with finding summer student positions
+- 💬 Ask me about fantasy hockey
+- 📫 How to reach me: jason_ngo@live.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have the drippiest pokemon crocs
 
 <!--
 **thejasonminh/thejasonminh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
