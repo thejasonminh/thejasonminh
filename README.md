@@ -3,8 +3,8 @@
 I'm Jason, a Calgarian residing in Toronto.
 
 - 🔭 I’m currently working on my Bachelor of Information at the University of Toronto
-- 🌱 I’m currently learning R
-- 🤔 I’m looking for help with finding summer student positions
+- 🌱 I’m currently learning R and Python
+- 🤔 I’m looking for positions post-grad
 - 💬 Ask me about fantasy hockey
 - 📫 How to reach me: jason_ngo@live.com
 - 😄 Pronouns: he/him
