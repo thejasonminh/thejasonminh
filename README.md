@@ -3,7 +3,8 @@
 I'm Jason, a Calgarian residing in Toronto.
 
 - 🔭 I’m currently working on my Bachelor of Information at the University of Toronto
-- 🌱 I’m currently learning R and Python
+- ✨ My career goal is to be a data scientist!
+- 🌱 I’m currently learning R, Python, Machine Learning, and NLP!
 - 🤔 I’m looking for positions post-grad
 - 💬 Ask me about fantasy hockey
 - 📫 How to reach me: jason_ngo@live.com
