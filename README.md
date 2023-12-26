@@ -5,7 +5,7 @@ I'm Jason, a Calgarian residing in Toronto.
 - 🔭 I’m currently working on my Bachelor of Information at the University of Toronto
 - ✨ My career goal is to be a data scientist!
 - 🌱 I’m currently learning R, Python, Machine Learning, and NLP!
-- 🤔 I’m looking for positions post-grad
+- 🤔 I’m looking for positions post-grad (preferably in Calgary or Toronto!)
 - 💬 Ask me about fantasy hockey
 - 📫 How to reach me: jason_ngo@live.com
 - 😄 Pronouns: he/him
